@@ -163,16 +163,16 @@ export const Home = () => {
                   <img src={require("../images/1.2.jpg")} alt="" />
                 </div> */}
                 <div>
-                  <img src={require("../images/1.3.jpg")} alt="" />
+                  <img src={require("../images/1.3.JPG")} alt="" />
                 </div>
                 <div>
-                  <img src={require("../images/1.4.jpg")} alt="" />
+                  <img src={require("../images/1.4.JPG")} alt="" />
                 </div>
                 <div>
-                  <img src={require("../images/1.5.jpg")} alt="" />
+                  <img src={require("../images/1.5.JPG")} alt="" />
                 </div>
                 <div>
-                  <img src={require("../images/1.6.jpg")} alt="" />
+                  <img src={require("../images/1.6.JPG")} alt="" />
                 </div>
                 {/* <div>
                   <img src={require("../images/1.7.jpg")} alt="" />
