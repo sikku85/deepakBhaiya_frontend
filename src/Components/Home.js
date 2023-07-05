@@ -174,12 +174,12 @@ export const Home = () => {
                 <div>
                   <img src={require("../images/1.6.jpg")} alt="" />
                 </div>
-                <div>
+                {/* <div>
                   <img src={require("../images/1.7.jpg")} alt="" />
                 </div>
                 <div>
                   <img src={require("../images/1.8.JPG")} alt="" />
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -227,7 +227,7 @@ export const Home = () => {
           </div>
         </section>
 
-        {/* <section id="insta" className="py-7">
+        <section id="insta" className="py-7">
           <div className="container">
             <div className="insta-content">
               <div className="title">
@@ -240,7 +240,7 @@ export const Home = () => {
                 <div>
                   <img src={require("../images/i-2.JPG")} alt="" />
                 </div>
-                <div>
+                {/* <div>
                   <img src={require("../images/i-3.JPG")} alt="" />
                 </div>
                 <div>
@@ -260,12 +260,12 @@ export const Home = () => {
                 </div>
                 <div>
                   <img src={require("../images/i-9.JPG")} alt="" />
-                </div>
+                </div> */}
 
               </div>
             </div>
           </div>
-        </section> */}
+        </section>
         {/* <!-- end of instagram section --> */}
       </main>
       {/* <!-- end of main content --> */}
