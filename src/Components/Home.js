@@ -159,9 +159,9 @@ export const Home = () => {
                   <img src={require("../images/1.5.1 (1).jpg")} alt="" />
                 </div>
 
-                <div>
+                {/* <div>
                   <img src={require("../images/1.2.jpg")} alt="" />
-                </div>
+                </div> */}
                 <div>
                   <img src={require("../images/1.3.jpg")} alt="" />
                 </div>
