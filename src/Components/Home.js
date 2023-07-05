@@ -236,7 +236,7 @@ export const Home = () => {
                 </a>
               </div>
               <div className="insta-grid grid">
-                <div>
+                {/* <div>
                   <img src={require("../images/i-2.JPG")} alt="" />
                 </div>
                 <div>
@@ -247,7 +247,7 @@ export const Home = () => {
                 </div>
                 <div>
                   <img src={require("../images/i-5.JPG")} alt="" />
-                </div>
+                </div> */}
                 <div>
                   <img src={require("../images/i-6.JPG")} alt="" />
                 </div>
@@ -257,9 +257,9 @@ export const Home = () => {
                 <div>
                   <img src={require("../images/i-8.JPEG")} alt="" />
                 </div>
-                <div>
+                {/* <div>
                   <img src={require("../images/i-9.JPG")} alt="" />
-                </div>
+                </div> */}
 
               </div>
             </div>
